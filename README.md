@@ -53,6 +53,9 @@ Se encuentra en:
 - 🇪🇨 Ecuador
 - 🇵🇪 Perú
 
+<img width="2558" height="3346" alt="2  MapaDistribuciónGeográficaCóndor TerritoriosComunalesyANPs_Perú (1)" src="https://github.com/user-attachments/assets/24e93a93-52de-4597-bdf1-0f2738cb1ac5" />
+
+
 Algunos individuos también realizan desplazamientos hacia las costas del Pacífico en búsqueda de alimento.
 
 ---
@@ -82,6 +85,9 @@ Su reproducción es particularmente lenta:
 - Las crías permanecen bajo cuidado parental durante un periodo prolongado.
 
 Esta estrategia reproductiva hace que las poblaciones sean especialmente vulnerables a la pérdida de individuos adultos.
+
+<img width="401" height="498" alt="image" src="https://github.com/user-attachments/assets/e0a5b7c0-1844-4862-968e-5a4aa3a206c2" />
+
 
 ---
 
@@ -145,6 +151,9 @@ La conservación de esta especie requiere:
 - Disminuir los conflictos entre ganadería y fauna silvestre.
 - Mantener la conectividad de sus hábitats.
 - Promover la educación y participación de las comunidades locales.
+- 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqiN77nWoa5V25-n66CUpKRlwJUJVSQ8SXhiS45GOjg&s=10
+- 
 
 ### 🌎 ¿Por qué conservarlo?
 
