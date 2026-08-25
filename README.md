@@ -27,6 +27,10 @@ El cóndor andino (*Vultur gryphus*) es una especie de ave de la familia **Catha
 
 ## Distribución
 
+<img width="2558" height="3346" alt="2  MapaDistribuciónGeográficaCóndor TerritoriosComunalesyANPs_Perú (1)" src="https://github.com/user-attachments/assets/425902f9-2af0-4ab9-b353-ac1cea6a12a0" />
+
+
+
 El cóndor andino habita a lo largo de la cordillera de los Andes, en países como:
 
 - Argentina
